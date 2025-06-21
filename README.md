@@ -7,7 +7,7 @@
 
 
 <details>
-<Summary> Tecnolgias que eu uso </summary>
+<Summary> Tecnolgias que utilizo </summary>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -15,10 +15,10 @@
 </details>
 
 <details>
-<Summary> IDEs que eu uso </summary>
+<Summary> IDEs que utilizo </summary>
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </details>
 
