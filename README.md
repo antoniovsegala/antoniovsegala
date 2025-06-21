@@ -1,6 +1,7 @@
 
 ### Olá eu sou o Antonio Victor Segala 😀
-#### Sou estudante do curso de Análise e Desenvolvimento de Sistemas - Unisul Pedra Branca
+#### Estou em busca do meu primeiro estágio na área
+#### Estou cursando Análise e Desenvolvimento de Sistemas - Unisul Pedra Branca
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/antoniov_segala)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-victor-iaroseski-segala-17a516224/)
